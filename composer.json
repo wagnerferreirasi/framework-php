@@ -1,0 +1,11 @@
+{
+    "name": "ferreira/framework-php",
+    "description": "Mini Framework PHP com padrão MVC e Orientado a objeto",
+    "authors": [
+        {
+            "name": "Wagner Ferreira",
+            "email": "66226535+wagnerferreirasi@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
